@@ -254,6 +254,7 @@ h3 {
   padding: 25px;
   cursor: pointer;
   display: flex;
+  margin: 10px;
 }
 .testimonial-col img {
   height: 40px;
